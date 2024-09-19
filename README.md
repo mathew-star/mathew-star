@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django REST, React , ML , Data Science**
 
-- 👨‍💻 All of my projects are available at [https://mathew-star.github.io/iPortfolio/](https://mathew-star.github.io/iPortfolio/)
+- 👨‍💻 All of my projects are available at [https://mathew-star.github.io/iPortfolio/](https://my-portfolio-e04f86lno-mathew-josephs-projects-778cf36d.vercel.app/)
 
 - 💬 Ask me about **Python , Django, React**
 
